@@ -1,2 +1,2 @@
 # API_amazon_webscraper
-returns JSON from product ID code
+returns information in JSON format from product ID code
