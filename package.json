@@ -1,0 +1,26 @@
+{
+  "name": "api_amazon_webscraper",
+  "version": "1.0.0",
+  "description": "returns information in JSON format from product ID code",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockystone77/API_amazon_webscraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockystone77/API_amazon_webscraper/issues"
+  },
+  "homepage": "https://github.com/rockystone77/API_amazon_webscraper#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "request-promise": "^4.2.6"
+  }
+}
